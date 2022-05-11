@@ -92,7 +92,7 @@ h1, h2, h3, h4{
     color: white;
 }
 
-@media (max-width:400px){
+@media (max-width:720px){
     #header{
         left: -350px;
     }
@@ -101,7 +101,7 @@ h1, h2, h3, h4{
     }
 }
 
-@media (min-width:400px){
+@media (min-width:720px){
     #main{
         margin-left: 350px;
     }
@@ -131,7 +131,7 @@ h1, h2, h3, h4{
 }
 
 #intro h1{
-    margin-left: 150px;
+    margin-left: 250px;
     margin-bottom: 15px;
     font-size: 48px;
     font-weight: 700;
@@ -139,7 +139,7 @@ h1, h2, h3, h4{
 }
 
 p{
-    margin-left: 150px;
+    margin-left: 250px;
     margin-bottom: 50px;
     font-size: 28px;
     font-family:'Segoe UI';
