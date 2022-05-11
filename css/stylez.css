@@ -92,7 +92,7 @@ h1, h2, h3, h4{
     color: white;
 }
 
-@media (max-width:720px){
+@media (max-width:400px){
     #header{
         left: -350px;
     }
@@ -101,7 +101,7 @@ h1, h2, h3, h4{
     }
 }
 
-@media (min-width:720px){
+@media (min-width:400px){
     #main{
         margin-left: 350px;
     }
